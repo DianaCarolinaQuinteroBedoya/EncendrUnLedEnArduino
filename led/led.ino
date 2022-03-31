@@ -15,6 +15,11 @@ void loop(){
   {
     digitalWrite(rojo,LOW);
   }
+   else
+  {
+     digitalWrite(rojo,HIGH); 
+  }
+
 
 
 }
