@@ -18,6 +18,13 @@ void loop(){
   distancia=tiempo/58.2;
   delay(500);
   Serial.println(distancia);
-  
+    if (distancia<20)
+  {
+    digitalWrite(rojo,LOW);
+  }
+  else
+  {
+     digitalWrite(rojo,HIGH); 
+  }
   
 }
