@@ -8,6 +8,6 @@ Diana Carolina Quintero Bedoya
 Juan Sebastian Rodriguez
 Oscar Rodriguez
 
-* **Diana Quintero** - *Creación del gitHub* - (https://github.com/DianaQuintero459/led_arduino.git)
+* **Diana Quintero** - *Creación del gitHub* - (https://github.com/DianaQuintero459/led_arduino.git)(https://github.com/DianaCarolinaQuinteroBedoya/EncendrUnLedEnArduino.git)
 * **Juan Sebastian Rodriguez** - *Modificación del código* 
 * **Oscar Rodriguez** - *Modificación del código* 
